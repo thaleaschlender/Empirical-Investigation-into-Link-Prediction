@@ -10,7 +10,10 @@ Note that the jupyter notebooks denote which datasets corresponds to which proje
 
 Please find the Feature visualisations in the conlfict notebook.
 
-References
+## References
+
 [1] Al Hasan, M., Chaoji, V., Salem, S., & Zaki, M. (2006, April). Link prediction using supervised learning. In SDM06: workshop on link analysis, counter-terrorism and security (Vol. 30, pp. 798-805).
+
 [2] Liben‐Nowell, D., & Kleinberg, J. (2007). The link‐prediction problem for social networks. Journal of the American society for information science and technology, 58(7), 1019-1031.
+
 [3] Grover, A., & Leskovec, J. (2016, August). node2vec: Scalable feature learning for networks. In Proceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 855-864).
